@@ -78,7 +78,7 @@
 
     <!-- Screen 1 -->
     <appwidget
-        launcher:packageName="com.crdroid.music"
+        launcher:packageName="com.sakura.music"
         launcher:className="com.kabouzeid.gramophone.appwidgets.AppWidgetBig"
         launcher:screen="1"
         launcher:x="0"
